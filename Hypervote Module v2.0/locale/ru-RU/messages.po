@@ -1,0 +1,604 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Modules\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#:
+msgid "Missing some of required data."
+msgstr "Задайте все настройки, чтобы активировать модуль."
+
+#:
+msgid "Invalid parameter"
+msgstr "Неверный параметр"
+
+#:
+msgid "Changes saved!"
+msgstr "Изменения сохранены"
+
+#: 
+msgid "Instagram user"
+msgstr "Instagram-аккаунт"
+
+#: 
+msgid "Re-login required!"
+msgstr "Требуется повторный вход!"
+
+msgid "Deactive"
+msgstr "Не активен"
+
+msgid "Active"
+msgstr "Активен"
+
+#: 
+msgid "Load More"
+msgstr "Загрузить ещё"
+
+#: 
+msgid "You haven't add any Instagram account yet. Click the button below to add your first account."
+msgstr "Вы ещё не подключили ни одного Instagram аккаунта. Нажмите на кнопку ниже, чтобы добавить аккаунт."
+
+#: 
+msgid "New Account"
+msgstr "Добавить новый аккаунт"
+
+#: 
+msgid "You don't have a permission to add any Instagram account."
+msgstr "Вы добавили максимальное количество аккаунтов доступных на вашем тарифе."
+
+#: 
+msgid "Please select an account from left side list."
+msgstr "Пожалуйста, выберите пользователя из списка слева."
+
+#: 
+msgid "Settings"
+msgstr "Настройки"
+
+#: 
+msgid "Activity Log"
+msgstr "Журнал активности"
+
+#: 
+msgid "Something is wrong on the system"
+msgstr "Что-то пошло не так, cистемная ошибка"
+
+#: 
+msgid "System task error"
+msgstr "Ошибка системной задачи"
+
+#: 
+msgid "Hashtags"
+msgstr "хэштеги"
+
+#: 
+msgid "Places"
+msgstr "Геолокации"
+
+#: 
+msgid "People (followers)"
+msgstr "Пользователи (подписчики)"
+
+#: 
+msgid "People (following)"
+msgstr "Пользователи (подписки)"
+
+#: 
+msgid "Search"
+msgstr "Поиск"
+
+#: 
+msgid "Speed"
+msgstr "Скорость"
+
+#: 
+msgid "Maximum"
+msgstr "Максимум"
+
+#: 
+msgid "%s stories/day"
+msgstr "%s историй/день"
+
+#: 
+msgid "Stats"
+msgstr "Статистика"
+
+#: 
+msgid "stories/day"
+msgstr "историй/день"
+
+#: 
+msgid "Save"
+msgstr "Сохранить"
+
+#: 
+msgid "Targeting Settings"
+msgstr "Настройки таргетинга"
+
+#: 
+msgid "There is no stats at the moment."
+msgstr "Данных на сегодня пока нет."
+
+#: 
+msgid "(stories)"
+msgstr "(историй)"
+
+#: 
+msgid "This week"
+msgstr "На этой неделе"
+
+#: 
+msgid "Views"
+msgstr "Просмотры"
+
+#: 
+msgid "Days"
+msgstr "Дни"
+
+#: 
+msgid "Masslooking has been stopped"
+msgstr "Масслукинг остановлен"
+
+#: 
+msgid "Masslooking re-scheduled"
+msgstr "Масслукинг перепланирован"
+
+#: 
+msgid "Masslooking started"
+msgstr "Масслукинг запущен"
+
+#: 
+msgid "We successfully started stories masslooking loop."
+msgstr "Цикл массового просмотра историй успешно запущен."
+
+#: 
+msgid "Re-login required"
+msgstr "Требуется повторная авторизация"
+
+#: 
+msgid "Please login again to your Instagram account."
+msgstr "Пожалуйста авторизуйтесь вновь в настройках аккаунта."
+
+#: 
+msgid "Challenge required"
+msgstr "Требуется повторная авторизация (сhallenge required)"
+
+#: 
+msgid "Checkpoint required"
+msgstr "Требуется повторная авторизация (сheckpoint required)"
+
+#: 
+msgid "Please login again and pass verification challenge. Instagram will send you a security code to verify your identity."
+msgstr "Пожалуйста переподключите Ваш аккаунт в настройка на странице «‎Аккаунты». Instagram может отправить Вам код проверки для подтверждения Вашей личности."
+
+#: 
+msgid "Please go to Instagram website or mobile app and pass checkpoint!"
+msgstr "Пожалуйста авторизуйтесь на сайте или в мобильном приложении <a href='https://instagram.com' target='_blank'>Instagram</a> и пройдите проверку."
+
+#: 
+msgid "Account disabled"
+msgstr "Аккаунт деактивирован"
+
+#: 
+msgid "Your account has been disabled for violating Instagram terms. <a href='%s'>Click here</a> to learn how you may be able to restore your account."
+msgstr "Ваш аккаунт был деактивирован за нарушение правил Instagram. <a href='%s'>Перейдите по ссылке</a>, чтобы узнать как восстановить Ваш аккаунт."    
+
+#: 
+msgid "Instagram updated Terms and Data Policy"
+msgstr "Instagram обновил пользовательское соглашение"
+
+#: 
+msgid "Please go to <a href='https://instagram.com' target='_blank'>Instagram</a> website or mobile app to review these changes and accept them. After that try again."
+msgstr "Пожалуйста авторизуйтесь на сайте или в мобильном приложении <a href='https://instagram.com' target='_blank'>Instagram</a> и примите новые условия. После этого запустите задачу вновь."
+
+#: 
+msgid "API access restricted"
+msgstr "Доступ к Instagram API ограничен"
+
+#: 
+msgid "Access to Instagram API restricted for spam behavior or otherwise abusing."
+msgstr "Доступ Вашего аккаунта к API был ограничен по причине спам активности или нарушения пользовательского соглашения."
+
+#: 
+msgid "You sent too many API requests"
+msgstr "Вы отправили сегодня слишком много запросов к Instagram API"
+
+#: 
+msgid "We will take a 24 hours break for masslooking and after that try all again. You reached Instagram daily limit. If you are using another type of automation, you should downcrease masslooking speed and find you golden ratio."
+msgstr "Мы автоматически приостановили масслукинг на 24 часа, так как Вы достигли дневного лимита Instagram по масслукингу. Вам следует уменьшить скорость, если вы используете другие типы автоматизации."
+
+#: 
+msgid "don't have any follower"   
+msgstr "не имеет ни одного подписчика."
+
+#: 
+msgid "don't have any following"   
+msgstr "ни на кого не подписан."
+
+#: 
+msgid "We skip this target and goes to the next one."
+msgstr "Мы пропустили эту цель и перешли к следующей."
+
+#: 
+msgid "not found"
+msgstr "не найден(а)"
+
+#: 
+msgid "These values indicates maximum amount of the story views per day. They are not exact values."
+msgstr "Это значение является расчётной скоростью. Реальное значение может отличаться."
+
+#: 
+msgid "Masslooking paused"
+msgstr "Масслукинг приостановлен"
+
+#: 
+msgid "Daily pause interval begins."
+msgstr "Так как Вы задали период для приостановки."
+
+#: 
+msgid "Pause masslooking everyday"
+msgstr "Останавливать масслукинг ежедневно"
+
+#: 
+msgid "From"
+msgstr "C"
+
+#: 
+msgid "To"
+msgstr "До"
+
+#: 
+msgid "Username is incorrect or maybe user blocked you (login to Instagram website or mobile app and check that)."
+msgstr "Имя пользователя неверно или вы заблокированы пользователем (авторизуйтесь на сайте или в мобильном приложении Instagram и проверьте это)"
+
+#: 
+msgid "{count} followers collected"
+msgstr "Получено подписчиков: {count}"
+
+#: 
+msgid "Next {count} followers collected"
+msgstr "Получено подписчиков: {count}"
+
+#: 
+msgid "{count} following collected"
+msgstr "Получено подписок: {count}"
+
+#: 
+msgid "Next {count} following collected"
+msgstr "Получено подписок: {count}"
+
+#: 
+msgid "Total: {count} followers parsed."
+msgstr "Всего: {count} подписчиков собрано."
+
+#: 
+msgid "Task not active."
+msgstr "Задача не активна."
+
+#: 
+msgid "Total seen"
+msgstr "Всего просмотрено"
+
+#: 
+msgid "PID:"
+msgstr "PID:"
+
+#: 
+msgid "{stories_count} stories marked as seen"
+msgstr "{stories_count} историй просмотрено"
+
+#: 
+msgid "Total: {count} stories seen."
+msgstr "Всего: {count} историй просмотрено."
+
+#: 
+msgid " (followers)"
+msgstr " (подписчики)"
+
+#: 
+msgid " (following)"
+msgstr " (подписки)"
+
+#: 
+msgid "Activity log for %s is empty."
+msgstr "Журнал активности %s пуст."
+
+#: 
+msgid "Masslooking in progress..."
+msgstr "Масслукинг запущен..."
+
+#: 
+msgid "Masslooking scheduled..."
+msgstr "Масслукинг будет запущен через 60 секунд..."
+
+#: 
+msgid "Total %s notes in logs."
+msgstr "Всего записей: %s."
+
+#: 
+msgid "All followers stories of @"
+msgstr "Все истории у подписчиков пользователя @"
+
+#: 
+msgid "All following stories of @"
+msgstr "Все истории у подписок пользователя @"
+
+#: 
+msgid "successfully seen."
+msgstr "успешно просмотрены."
+
+#: 
+msgid "Insights"
+msgstr "Статистика"
+
+#: 
+msgid "Estimated speed is"
+msgstr "Расчётная скорость"
+
+#: 
+msgid "stories/day"
+msgstr "историй/день"
+
+#: 
+msgid "Estimated speed (stories/day)"
+msgstr "Расчётная скорость (историй/день)"
+
+#: 
+msgid "Speed for masslooking not defined"
+msgstr "Скорость масслукинга не задана"
+
+#: 
+msgid "Couldn't find any target for masslooking"
+msgstr "Цели для масслукинга не заданы"
+
+#: 
+msgid "All stories related to the targets seen"
+msgstr "Все истории у целей просмотрены"
+
+#: 
+msgid "Starting the new loop."
+msgstr "Начинаем новый цикл."
+
+#: 
+msgid "Maximum speed"
+msgstr "Максимальная скорость"
+
+#: 
+msgid "Hyperloop Module Settings"
+msgstr "Настройки модуля Hyperloop"
+
+#: 
+msgid "These values indicates maximum amount of the story views per day. They are not exact values. Depending on the server overload and delays between the requests, actual number of the view requests might be less than these values."
+msgstr "Это значение характериует максимальное количество просмотренных историй в день и является расчётным. В зависимости загруженности сервера и задержек между просмотрами, реальное значение может отличаться."
+
+#: 
+msgid "Developers are not responsible for any issues related to the Instagram accounts."
+msgstr "Разработчик модуля не несет ответственности за проблемы возникающие с Instagram-аккаунтами."
+
+#: 
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+#: 
+msgid "Enter the key"
+msgstr "Введите значение ключа"
+
+#: 
+msgid "Please enter your license key in Hyperloop Module Settings."
+msgstr "Пожалуйста введите лицензионный ключ в настройках модуля Hyperloop."
+
+#: 
+msgid "Masslooking"
+msgstr "Масслукинг"
+
+#: 
+msgid "Very useful module for masslooking Instagram Stories. The module has advanced targeting options."
+msgstr "Модуль для масслукинга Instagram Stories с расширенными настройками таргетинга."
+
+#: 
+msgid "License is valid"
+msgstr "Лицензия активирована"
+
+#: 
+msgid "License not valid"
+msgstr "Лицензия не действительна"
+
+#: 
+msgid "License Key not set"
+msgstr "Лицензионный ключ не задан"
+
+#: 
+msgid "Changes saved!"
+msgstr "Изменения cохранены!"
+
+#: 
+msgid "Changes saved! License is valid."
+msgstr "Изменения cохранены! Лицензия действительна."
+
+#: 
+msgid "Changes saved! But license not valid."
+msgstr "Изменения cохранены! Но лицензия не действительна."
+
+#: 
+msgid "We recommend using as speed value %s"
+msgstr "Рекомендуемое значение: %s"
+
+#: 
+msgid "When you are using the maximum speed you may exceed the masslooking limits per day if this account actively used by a user in the Instagram app at the same time."
+msgstr "При использовани максимальной скорости Вы можете превысить дневной лимит масслукинга, если пользователь параллельно смотрит истории в приложении Instagram."
+
+#: 
+msgid "If you are using another type of automation, we recommend to you reducing masslooking speed."
+msgstr "Если Вы параллельно используете другие виды автоматизации, мы рекомендуем Вам уменьшить скорость."
+
+#: 
+msgid "We couldn't connect to Instagram at the moment. We will try to connect again."
+msgstr "Мы не смогли соединиться с сервером Instagram. Пробуем подключиться еще раз."
+
+#: 
+msgid "Re-login is required for the account."
+msgstr "Требуется повторная авторизация."
+
+#: 
+msgid "(stories/day)"
+msgstr "(историй/день)"
+
+#: 
+msgid "Perfomance"
+msgstr "Показатели"
+
+#: 
+msgid "Instagram sent us empty response. We will try again."
+msgstr "Instagram прислал нам пустой ответ. Пробуем подключиться еще раз."
+
+#: 
+msgid "Task Manager"
+msgstr "Диспетчер задач"
+
+#: 
+msgid "Task"
+msgstr "Статус задания"
+
+#: 
+msgid "Restart"
+msgstr "Перезапустить"
+
+#: 
+msgid "You are not schedule any masslooking task."
+msgstr "Вы не создали ни одной задачи для масслукинга."
+
+#: 
+msgid "You are not schedule any masslooking task."
+msgstr "Вы не создали ни одной задачи для масслукинга."
+
+#: 
+msgid "Setup Masslooking Tasks"
+msgstr "Настроить задачи масслукинга"
+
+#: 
+msgid "Scheduled"
+msgstr "В очереди"
+
+#: 
+msgid "Oops..."
+msgstr "Упс..."
+
+#: 
+msgid "Oops!"
+msgstr "Упс..."
+
+#: 
+msgid "Сlose"
+msgstr "Закрыть"
+
+#: 
+msgid "Please type a valid license key, which you can find in your %s."
+msgstr "Пожалуйста введите действительный лицензионный ключ. Вы можете его найти в %s."
+
+#: 
+msgid "Paused"
+msgstr "На паузе"
+
+#: 
+msgid "Next masslooking will be at %s"
+msgstr "Старт масслукинга запланирован на %s"
+
+#: 
+msgid "When you are using the maximum speed you may exceed the masslooking limits faster than usual."
+msgstr "Когда Вы используете максимальную скорость масслукинга, Вы можете превысить лимиты быстрее, нежели используя рекомендуемое значение" 
+
+#: 
+msgid "If you are using another type of automation, we recommend to you also reducing masslooking speed."
+msgstr "Если Вы используете другие типы автоматизации, мы настоятельно рекомендуем уменьшить скорость масслукинга."
+
+#: 
+msgid "Targets list"      
+msgstr "Вставить список"
+
+#: 
+msgid "Clear targets"      
+msgstr "Очистить цели"
+
+#: 
+msgid "You are not insert any target. Please provide valid usernames or Instagram profile links."
+msgstr "Вы не задали ни одной цели. Пожалуйста вставьте имена пользователей или ссылки на их Instagram профили."
+
+#: 
+msgid "Insert targets list"      
+msgstr "Вставить список целей"
+
+#: 
+msgid "Usernames or links, every target from new string..."
+msgstr "Имена пользователей или ссылки, каждое значение с новой строки..."
+
+#: 
+msgid "Enter only valid Instagram usernames or Instagram profile links"
+msgstr "Список может содержать только имена пользователей или ссылки на Instagram профили"
+
+#: 
+msgid "Every parameter from a new string"
+msgstr "Каждое значение с новой строки"
+
+#: 
+msgid "Insert"
+msgstr "Вставить"
+
+#: 
+msgid "All targets in list is invalid. Please provide valid usernames or Instagram profile links."
+msgstr "Все цели в списке недействительны. Пожалуйста вставьте актуальные имена пользователей или ссылки на их Instagram профили."
+
+#: 
+msgid "An error occured"
+msgstr "Произошла ошибка"
+
+#: 
+msgid "Please try again later!"
+msgstr "Попробуйте действие ещё раз через несколько минут!"
+
+#: 
+msgid "Experimental features"
+msgstr "Экспериментальные функции"
+
+#: 
+msgid "This option will reduce speed, but can increase results of masslooking."
+msgstr "После включения данной функции, скорость масслукинга может уменьшиться, а результаты стать лучше."
+
+#: 
+msgid "You added:"
+msgstr "Целей всего:"
+
+#: 
+msgid "target(s)."
+msgstr ""
+
+#: 
+msgid "Mark as seen only fresh stories, which posted no more than"
+msgstr "Смотреть истории, опубликованные не позднее"
+
+#: 
+msgid "Mark as seen only fresh stories, which posted no more than"
+msgstr "Смотреть истории, опубликованные не позднее"
+
+#: 
+msgid "hour(s) ago"
+msgstr "час(a,ов) назад"
+
+#: 
+msgid "Copy targets"
+msgstr "Скопировать цели"
+
+#: 
+msgid "Targets"
+msgstr "Цели"
+
+#: 
+msgid "Here you can see usernames of targets added to this task."
+msgstr "Здесь Вы можете увидеть имена пользователей, которые заданы в качестве целевых аккаунтов для этой задачи"
+
+
+
+
+

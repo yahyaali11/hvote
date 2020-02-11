@@ -1,0 +1,33 @@
+{
+	"license_key" : "",
+	"username" : "",
+	"password" : "",
+	"proxy" : "",
+	"speed_value" : "",
+	"targets" : "",
+	"fresh_stories_range" : 5,
+	"is_poll_vote_active" : true,
+	"is_slider_points_active" : true,
+	"is_questions_answers_active" : false,
+	"is_quiz_answers_active" : true,
+	"is_mass_story_vivew_active": true,
+	"questions_answers" : [
+		"hi",
+		"hello",
+		"are you there?",
+		"😍",
+		"🥰",
+		"🤩",
+		"😎",
+		"😄",
+		"😅",
+		"😂"
+	],
+	"slider_points_range" : [
+		75,
+		100
+	]
+
+
+
+}
