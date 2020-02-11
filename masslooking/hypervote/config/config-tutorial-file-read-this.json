@@ -1,0 +1,34 @@
+// This file for tutorial. Please use config file for real usage.
+
+{
+	
+	"password" : "accounts password",
+	"proxy" : "3 to skip or else please fill related info. Proxy should match following pattern: http://ip:port or http://username:password@ip:port Dont use https://",
+	"speed_value" : "value from 10000 to 500000, or just simple type 0 for maximum speed, but remember that maximum speed might be risky and you can get exception \"Throttled by Instagram because of too many API requests\" block for half a day, if this account actively used by user in Instagram app in the same time",
+	"targets" : "target_1,target_2,target_3,...,target_n",
+	"fresh_stories_range" : 5, //hours - 0 to 23
+	"is_poll_vote_active" : true,// true for giving vote, false for closing
+	"is_slider_points_active" : true, // true for points vote, false for closing
+	"is_questions_answers_active" : true, // true for answer vote, false for closing
+	"is_quiz_answers_active" : true, // true for giving answer, false for closing
+	"is_mass_story_vivew_active": true, // true for mass story view. Use with caution. We are not responsible if your account banned or something worse
+	"questions_answers" : [
+		"hi",
+		"hello",
+		"are you there?",
+		"😍",
+		"🥰",
+		"🤩",
+		"😎",
+		"😄",
+		"😅",
+		"😂"
+	],
+	"slider_points_range" : [
+		75, // Minimum value: 0 - 100
+		100 // Maximum value: >0 - 100
+	]
+
+
+
+}
